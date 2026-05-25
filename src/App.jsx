@@ -8,7 +8,7 @@ import { sb }     from './supabase.js';
 // Para cambiar entre Pertento SC y SAMO, modifica esta línea:
 // 'pertento'  → colores navy/dorado/azul de Pertento SC
 // 'samo'      → colores oscuro/azul SAMO Consulting Group
-const MARCA = 'pertento'; // <-- cambia a 'samo' para la versión SAMO
+const MARCA = 'samo'; // <-- cambia a 'samo' para la versión SAMO
 
 export default function App() {
   const [estado,  setEstado]  = useState('cargando'); // 'cargando' | 'login' | 'app' | 'admin'

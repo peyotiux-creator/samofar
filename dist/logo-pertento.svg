@@ -1,0 +1,21 @@
+<svg width="100%" viewBox="0 0 680 200" role="img" xmlns="http://www.w3.org/2000/svg" style=""><defs><mask id="imagine-text-gaps-d8qaks" maskUnits="userSpaceOnUse"><rect x="0" y="0" width="680" height="200" fill="white"/><rect x="-4" y="2" width="349.7875061035156" height="88" fill="black" rx="2"/></mask></defs>
+  <title style="fill:rgb(0, 0, 0);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">Pertento logo mango detrás del círculo</title>
+  <desc style="fill:rgb(0, 0, 0);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">Logo Pertento con mango de la lupa detrás del círculo grande de la O</desc>
+
+  <g transform="translate(146, 30)" style="fill:rgb(0, 0, 0);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">
+
+    <text x="0" y="72" font-family="'Trebuchet MS', 'Helvetica Neue', Arial, sans-serif" font-size="72" font-weight="200" fill="#1B2A5C" letter-spacing="8" style="fill:rgb(27, 42, 92);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Trebuchet MS&quot;, &quot;Helvetica Neue&quot;, Arial, sans-serif;font-size:72px;font-weight:200;text-anchor:start;dominant-baseline:auto">PERTENT</text>
+
+    <!-- Mango primero (capa inferior) -->
+    <line x1="358" y1="73" x2="358" y2="98" stroke="#3A78C9" stroke-width="8" stroke-linecap="round" style="fill:rgb(0, 0, 0);stroke:rgb(58, 120, 201);color:rgb(0, 0, 0);stroke-width:8px;stroke-linecap:round;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+    <!-- O-lupa encima del mango -->
+    <circle cx="358" cy="46" r="27" fill="none" stroke="#1B2A5C" stroke-width="5" style="fill:none;stroke:rgb(27, 42, 92);color:rgb(0, 0, 0);stroke-width:5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+    <circle cx="358" cy="46" r="14" fill="none" stroke="#3A78C9" stroke-width="2" opacity="0.55" style="fill:none;stroke:rgb(58, 120, 201);color:rgb(0, 0, 0);stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.55;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+    <!-- Línea en amarillo dorado -->
+    <line x1="0" y1="90" x2="340" y2="90" stroke="#EDB512" stroke-width="6" stroke-linecap="round" mask="url(#imagine-text-gaps-d8qaks)" style="fill:rgb(0, 0, 0);stroke:rgb(237, 181, 18);color:rgb(0, 0, 0);stroke-width:6px;stroke-linecap:round;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+  </g>
+
+</svg>
